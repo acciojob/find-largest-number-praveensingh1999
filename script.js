@@ -10,7 +10,7 @@
 		 return c;
 	 }
  }
-const num1 = parseInt(prompt("Enter First Number."));
-const num2 = parseInt(prompt("Enter Second Number."));
-const num3 = parseInt(prompt("Enter Third Number."));
+const a = parseInt(prompt("Enter First Number."));
+const b = parseInt(prompt("Enter Second Number."));
+const c = parseInt(prompt("Enter Third Number."));
 alert(findLargest(a, b, c));
