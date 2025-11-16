@@ -7,7 +7,7 @@
 		 return b;
 	 }
 	 else{ 
-		 return c;
+		 return c; 
 	 }
  }
 const a = parseInt(prompt("Enter First Number."));
