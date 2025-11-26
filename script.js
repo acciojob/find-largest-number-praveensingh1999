@@ -13,4 +13,4 @@
 const a = parseInt(prompt("Enter First Number."));
 const b = parseInt(prompt("Enter Second Number."));
 const c = parseInt(prompt("Enter Third Number."));
-alert(findLargest(a, b, c));
+alert("The largest number is: " + findLargest(a, b, c));
